@@ -1,2 +1,4 @@
 # ValkiryeBot
-This is my first discord bot and the fisrt python project in my github.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/lowg0d/ValkiryeBot)
+
