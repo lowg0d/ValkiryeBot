@@ -1,5 +1,17 @@
-# ValkiryeBot
+# ValkiryeBot - V0.1
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lowg0d&repo=ValkiryeBot&border_color=fffff&bg_color=0a0c10&theme=synthwave)](https://github.com/lowg0d/ValkiryeBot)
+### What's this !??
+>* A discord bot writed in python, this is my first discord bot and my first python repository in my github.
+
+### Features:
+>* Ping command.
+>* SlowMode command.
+>* Clear command.
+>* Ban command.
+>* kick command.
+>* Announcement command.
+>* Poll command.
+
+
 
 
