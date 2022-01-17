@@ -35,8 +35,6 @@ date = datetime.utcnow().strftime("%d"+"/"+"%m"+"/"+"%y "+"%H"+":"+"%M"+":"+"%S"
 log = f"[{date} INFO]: " # log format
 # Color
 embed_color = discord.Color.from_rgb(252, 15, 252)
-pool_color = discord.Color.from_rgb(252, 15, 252)
-announcement_color = discord.Color.from_rgb(252, 15, 252)
 
 #################################################################################
 
@@ -95,7 +93,7 @@ def DiscorBot():
     # Pool Command
     @bot.command()
     @commands.has_permissions(administrator=True)
-    async def pool(ctx, *, description):
+    async def poll(ctx, *, description):
         embed = discord.Embed(title="__**Pool**__", description=f"Created by {ctx.author.mention}",
             color=discord.Color.purple())
         embed.add_field(name="Description", value=description)
